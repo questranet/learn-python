@@ -1,4 +1,4 @@
 import os
 
-name = os.ctermid()
+name = os.environs['HOME']
 print(name)
