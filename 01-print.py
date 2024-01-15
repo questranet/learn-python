@@ -3,6 +3,8 @@ print("Hello World")
 
 
 
+
+#  alias py=python3.11
 # To declare a variable in Python:
 #
 # a=10
