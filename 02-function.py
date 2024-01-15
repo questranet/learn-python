@@ -5,3 +5,10 @@ def sample_func():
 
 y=20
 print(sample_func())
+
+
+
+
+# py
+# import builtins
+# dir(builtins)
